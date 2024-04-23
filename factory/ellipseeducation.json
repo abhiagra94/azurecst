@@ -1,0 +1,9 @@
+{
+	"name": "ellipseeducation",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "73f97149-ecca-4d27-a853-3c04512b5781",
+		"tenantId": "8435d1ba-cccb-4688-a86e-bdc5c90999e5"
+	}
+}
